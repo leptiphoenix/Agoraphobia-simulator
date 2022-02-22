@@ -6,7 +6,7 @@ using UnityEngine.Animations.Rigging;
 public class DummyScript : MonoBehaviour
 {
     public GameObject aim;
-    private bool walking;
+    private bool walking = false;
     [Range(0.0f, 1.0f)]
     public float attention;
     private Animator a;
@@ -21,9 +21,13 @@ public class DummyScript : MonoBehaviour
 
     private void Update()
     {
-        n.destination = movePositionTransform.position;
-        bool isArrived = (transform.position - movePositionTransform.position).magnitude <= 0.8;
-        a.SetBool("walking",!isArrived);
+        if (movePositionTransform!= null)
+        {
+            n.destination = movePositionTransform.position;
+            walking = (transform.position - movePositionTransform.position).magnitude > 0.8;
+
+        }
+        a.SetBool("walking",walking);
         var sources = aim.GetComponent<MultiAimConstraint>().data.sourceObjects;
         sources.SetWeight(0, attention);
         aim.GetComponent<MultiAimConstraint>().data.sourceObjects = sources;
