@@ -132,6 +132,31 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1860900905195475973, guid: 6b209ec0428d578409fff8fa34160afc,
+        type: 3}
+      propertyPath: m_Data.m_SourceObjects.m_Item0.transform
+      value: 
+      objectReference: {fileID: 963194228}
+    - target: {fileID: 1860900905826995649, guid: 6b209ec0428d578409fff8fa34160afc,
+        type: 3}
+      propertyPath: m_Data.m_SourceObjects.m_Item0.transform
+      value: 
+      objectReference: {fileID: 963194228}
+    - target: {fileID: 1860900906136459040, guid: 6b209ec0428d578409fff8fa34160afc,
+        type: 3}
+      propertyPath: m_Data.m_SourceObjects.m_Item0.transform
+      value: 
+      objectReference: {fileID: 963194228}
+    - target: {fileID: 1860900906152117602, guid: 6b209ec0428d578409fff8fa34160afc,
+        type: 3}
+      propertyPath: m_Data.m_SourceObjects.m_Item0.transform
+      value: 
+      objectReference: {fileID: 963194228}
+    - target: {fileID: 1860900906426406158, guid: 6b209ec0428d578409fff8fa34160afc,
+        type: 3}
+      propertyPath: m_Data.m_SourceObjects.m_Item0.transform
+      value: 
+      objectReference: {fileID: 963194228}
     - target: {fileID: 1860900906649768939, guid: 6b209ec0428d578409fff8fa34160afc,
         type: 3}
       propertyPath: m_RootOrder
@@ -192,6 +217,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: discussionGroup (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1860900907008960477, guid: 6b209ec0428d578409fff8fa34160afc,
+        type: 3}
+      propertyPath: m_Data.m_SourceObjects.m_Item0.transform
+      value: 
+      objectReference: {fileID: 963194228}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6b209ec0428d578409fff8fa34160afc, type: 3}
 --- !u!1 &515302638
@@ -624,6 +654,31 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1860900905195475973, guid: 6b209ec0428d578409fff8fa34160afc,
+        type: 3}
+      propertyPath: m_Data.m_SourceObjects.m_Item0.transform
+      value: 
+      objectReference: {fileID: 963194228}
+    - target: {fileID: 1860900905826995649, guid: 6b209ec0428d578409fff8fa34160afc,
+        type: 3}
+      propertyPath: m_Data.m_SourceObjects.m_Item0.transform
+      value: 
+      objectReference: {fileID: 963194228}
+    - target: {fileID: 1860900906136459040, guid: 6b209ec0428d578409fff8fa34160afc,
+        type: 3}
+      propertyPath: m_Data.m_SourceObjects.m_Item0.transform
+      value: 
+      objectReference: {fileID: 963194228}
+    - target: {fileID: 1860900906152117602, guid: 6b209ec0428d578409fff8fa34160afc,
+        type: 3}
+      propertyPath: m_Data.m_SourceObjects.m_Item0.transform
+      value: 
+      objectReference: {fileID: 963194228}
+    - target: {fileID: 1860900906426406158, guid: 6b209ec0428d578409fff8fa34160afc,
+        type: 3}
+      propertyPath: m_Data.m_SourceObjects.m_Item0.transform
+      value: 
+      objectReference: {fileID: 963194228}
     - target: {fileID: 1860900906649768939, guid: 6b209ec0428d578409fff8fa34160afc,
         type: 3}
       propertyPath: m_RootOrder
@@ -684,6 +739,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: discussionGroup (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1860900907008960477, guid: 6b209ec0428d578409fff8fa34160afc,
+        type: 3}
+      propertyPath: m_Data.m_SourceObjects.m_Item0.transform
+      value: 
+      objectReference: {fileID: 963194228}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6b209ec0428d578409fff8fa34160afc, type: 3}
 --- !u!1 &1330177161
@@ -1043,11 +1103,31 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1860900905195475973, guid: 6b209ec0428d578409fff8fa34160afc,
+        type: 3}
+      propertyPath: m_Data.m_SourceObjects.m_Item0.transform
+      value: 
+      objectReference: {fileID: 963194228}
     - target: {fileID: 1860900905826995649, guid: 6b209ec0428d578409fff8fa34160afc,
         type: 3}
       propertyPath: m_Data.m_SourceObjects.m_Item0.transform
       value: 
-      objectReference: {fileID: 1045848416}
+      objectReference: {fileID: 963194228}
+    - target: {fileID: 1860900906136459040, guid: 6b209ec0428d578409fff8fa34160afc,
+        type: 3}
+      propertyPath: m_Data.m_SourceObjects.m_Item0.transform
+      value: 
+      objectReference: {fileID: 963194228}
+    - target: {fileID: 1860900906152117602, guid: 6b209ec0428d578409fff8fa34160afc,
+        type: 3}
+      propertyPath: m_Data.m_SourceObjects.m_Item0.transform
+      value: 
+      objectReference: {fileID: 963194228}
+    - target: {fileID: 1860900906426406158, guid: 6b209ec0428d578409fff8fa34160afc,
+        type: 3}
+      propertyPath: m_Data.m_SourceObjects.m_Item0.transform
+      value: 
+      objectReference: {fileID: 963194228}
     - target: {fileID: 1860900906649768939, guid: 6b209ec0428d578409fff8fa34160afc,
         type: 3}
       propertyPath: m_RootOrder
@@ -1108,6 +1188,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: discussionGroup
       objectReference: {fileID: 0}
+    - target: {fileID: 1860900907008960477, guid: 6b209ec0428d578409fff8fa34160afc,
+        type: 3}
+      propertyPath: m_Data.m_SourceObjects.m_Item0.transform
+      value: 
+      objectReference: {fileID: 963194228}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6b209ec0428d578409fff8fa34160afc, type: 3}
 --- !u!1001 &6956663146867554253
@@ -1121,7 +1206,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Data.m_SourceObjects.m_Item0.transform
       value: 
-      objectReference: {fileID: 1045848416}
+      objectReference: {fileID: 963194228}
     - target: {fileID: 6956663148253337938, guid: 35be09f50fadea4429b93f73df96cb3e,
         type: 3}
       propertyPath: attention
