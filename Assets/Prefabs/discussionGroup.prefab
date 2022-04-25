@@ -845,7 +845,7 @@ MonoBehaviour:
     m_SourceObjects:
       m_Length: 1
       m_Item0:
-        transform: {fileID: 1860900905826995648}
+        transform: {fileID: 0}
         weight: 1
       m_Item1:
         transform: {fileID: 0}
@@ -1655,6 +1655,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   aim: {fileID: 1860900905195475974}
   attention: 1
+  doWalk: 1
   movePositionTransform: {fileID: 0}
 --- !u!1 &1860900905307637108
 GameObject:
@@ -1864,6 +1865,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   aim: {fileID: 1860900905826995650}
   attention: 1
+  doWalk: 1
   movePositionTransform: {fileID: 0}
 --- !u!1 &1860900905337844248
 GameObject:
@@ -2631,6 +2633,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   aim: {fileID: 1860900906136459041}
   attention: 1
+  doWalk: 1
   movePositionTransform: {fileID: 0}
 --- !u!1 &1860900905477379256
 GameObject:
@@ -3511,6 +3514,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   aim: {fileID: 1860900906426406159}
   attention: 1
+  doWalk: 1
   movePositionTransform: {fileID: 0}
 --- !u!1 &1860900905676249408
 GameObject:
@@ -6792,7 +6796,7 @@ MonoBehaviour:
     m_SourceObjects:
       m_Length: 1
       m_Item0:
-        transform: {fileID: 1860900906152117601}
+        transform: {fileID: 0}
         weight: 1
       m_Item1:
         transform: {fileID: 0}
@@ -6909,7 +6913,7 @@ MonoBehaviour:
     m_SourceObjects:
       m_Length: 1
       m_Item0:
-        transform: {fileID: 1860900906426406157}
+        transform: {fileID: 0}
         weight: 1
       m_Item1:
         transform: {fileID: 0}
@@ -7055,6 +7059,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   aim: {fileID: 1860900907008960478}
   attention: 1
+  doWalk: 1
   movePositionTransform: {fileID: 0}
 --- !u!1 &1860900906176608723
 GameObject:
@@ -8662,7 +8667,7 @@ MonoBehaviour:
     m_SourceObjects:
       m_Length: 1
       m_Item0:
-        transform: {fileID: 1860900905826995648}
+        transform: {fileID: 0}
         weight: 1
       m_Item1:
         transform: {fileID: 0}
@@ -12162,6 +12167,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   aim: {fileID: 1860900906152117603}
   attention: 1
+  doWalk: 1
   movePositionTransform: {fileID: 0}
 --- !u!1 &1860900906958558857
 GameObject:
@@ -12565,7 +12571,7 @@ MonoBehaviour:
     m_SourceObjects:
       m_Length: 1
       m_Item0:
-        transform: {fileID: 1860900905826995648}
+        transform: {fileID: 0}
         weight: 1
       m_Item1:
         transform: {fileID: 0}

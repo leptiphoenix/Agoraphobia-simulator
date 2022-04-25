@@ -15,7 +15,7 @@ public class IAManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        peoples = new List<DummyScript>();
+        
     }
 
     // Update is called once per frame
@@ -63,6 +63,10 @@ public class IAManager : MonoBehaviour
 
     public void addPeople(DummyScript people)
     {
+        if (peoples == null)
+        {
+            peoples = new List<DummyScript>();
+        }
         peoples.Add(people);
     }
 
